@@ -1,4 +1,4 @@
 - Hi, I'm Luiz Fernando.
 - I started studying Computer Science at UFMG in the first half of 2022. I'm very excited to learn lots of cool stuff related to problem solving, mathematics and programming.
-- At the moment, I'm learning to program in C++.
+- At the moment, I'm in an undergraduate reasearch program on the selection of optimal wind farms portfolios, using mainly Python with some libraries such as Pandas, Numpy and SKLearn.
 - You can reach me through my email: luizfgrocha04@gmail.com.
